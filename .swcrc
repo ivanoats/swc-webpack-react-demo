@@ -2,7 +2,7 @@
   "jsc": {
     "parser": {
       "syntax": "ecmascript",
-      "jsc": true
+      "jsx": true
     }
   }
 }
